@@ -25,23 +25,8 @@ To support clear and effective system development, various models are used to de
 
 - **Use Case Diagrams**: Illustrate user interactions, including file upload, print configuration, and history tracking.
 - **Sequence Diagrams**: Define the workflow of a print job from upload to completion.
-- **Data Flow Diagrams**: Depict data movement between components, ensuring proper data management across the system.
-
-## Requirements
-
-### Functional Requirements
-
-- Allow users to upload and manage print jobs.
-- Support for customizable print options, including color, paper size, and resolution.
-- Enable job queue management for ordered processing.
-- Provide access to job history for tracking purposes.
-
-### Non-Functional Requirements
-
-- **Performance**: The system should efficiently handle concurrent print requests.
-- **Security**: Protect sensitive data, such as document contents and user configurations.
-- **Usability**: Ensure a user-friendly interface that simplifies print configuration and job management.
-- **Scalability**: Design for potential growth, allowing additional services or resources as demand increases.
+- **Acitvity Diagrams**: Describe the step-by-step flow of activities involved in the printing process, including file selection, configuration setup, job submission, and completion notification.
+- **Class Diagrams**: 
 
 ## Getting Started
 
