@@ -54,4 +54,9 @@ To support clear and effective system development, various models are used to de
 1. Clone the repository:
    ```bash
    git clone https://github.com/mahara0511/btl-cnpm-2024.git
-   cd printing-service
+   
+2. Install dependencies:
+   npm i
+
+3. Start the application:
+   npm start
