@@ -3,7 +3,7 @@
 This repository contains the codebase for a **Printing Service** system. The service enables users to upload files, configure printing preferences, manage print queues, and track print history. Designed with scalability, efficiency, and ease of use in mind, the printing service includes various components to ensure smooth operation and meet both functional and non-functional requirements.
 
 ## Features
-
+- **Login**: Authenticate with HCMUTSSO.
 - **File Upload**: Allows users to upload documents for printing.
 - **Print Configuration**: Supports customization options such as color, paper size, and orientation.
 - **Print History Tracking**: Records job details for future reference, including job timestamps, document names, and print configurations.
@@ -32,7 +32,8 @@ To support clear and effective system development, various models are used to de
 
 ### Prerequisites
 
-- **Node.js** and **npm**: For setting up and running the backend services.
+- **Reactjs**, **npm**: For setting up and running the frontend services.
+- **Python**: For setting up and running the backend services
   
 ### Installation
 
